@@ -5,7 +5,7 @@
 - 💭 I know it's urgent, it always is...
 
 
-| <a href="https://github.com/wagnerolliveira"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wagnerolliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Wagner Oliveira" /></a> | <a href="https://github.com/wagnerolliveira"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolliveira&layout=compact&langs_count=16&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/wagnerolliveira"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wagnerolliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Wagner Oliveira" /></a> | <a href="https://github.com/wagnerolliveira"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolliveira&layout=compact&langs_count=7&theme=dracula" /></a> |
 | ------------- | ------------- |
 
 <div style="display: inline_block"><br>
