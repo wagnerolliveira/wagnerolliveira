@@ -4,8 +4,8 @@
 - ❤  Mobile
 - 💭 I know it's urgent, it always is...
 
-
-
+| <a href="https://github.com/wagnerolliveira"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wagnerolliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wagner Oliveira" /></a> | <a href="https://github.com/wagnerolliveira"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerolliveira&layout=compact&langs_count=7&theme=tokyonight" /></a> |
+| ------------- | ------------- |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wagner-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
