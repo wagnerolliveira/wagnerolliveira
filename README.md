@@ -1,5 +1,5 @@
 - 📘 Systems Engineering Student
-- 💻 Junior Software Developer - FullStack
+- 💻 Junior Software Developer 
 - 🌱 Studying React Native
 - ❤  Mobile
 - 💭 I know it's urgent, it always is...
