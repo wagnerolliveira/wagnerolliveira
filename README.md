@@ -1,6 +1,6 @@
-- 📘 Systems Engineering Student
-- 💻 Junior Software Developer 
-- 🌱 Studying React Native
+- 📘 Systems Engineering
+- 💻 Mid Software Developer 
+- 🌱 Studying React Native and AI
 - ❤  Mobile
 - 💭 I know it's urgent, it always is...
 
